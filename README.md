@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Haisley54321
+- 👀 I’m interested in  software
+- 🌱 I’m currently learning C++ and Lua
+- 💞️ I’m looking to collaborate on a custom os
+- 📫 How to reach me email me at lubertcameron@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Idk.
